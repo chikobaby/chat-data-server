@@ -1,5 +1,5 @@
 {
-  "name": "data-server",
+  "name": "chat-data-server",
   "version": "0.0.0",
   "private": true,
   "scripts": {
